@@ -1,0 +1,65 @@
+@media screen and (min-width: 768px){
+    .div1{
+        margin-top: 0;
+    }
+    .s7d2{
+        width: 25%;
+        }
+        .s8para{
+            margin-top: -10px;
+        }
+    
+  
+}
+@media screen and (min-width: 480px){
+    .heading1{
+        font-size: 9vh;
+    }
+    .navbar-brand{
+        font-size: 6vh!important;
+        /* margin-left: 0; */
+        left: 0px;
+    }
+    .hr
+    {
+    height: 43px;
+
+    }
+    .navbar-nav{
+        margin-left:250px;
+    }
+    .back{
+        background-color: transparent!important;
+
+    }
+    .card{
+        width: 23rem;
+        height: 27.5rem;
+    }
+    .s3para{
+        font-size: 2.5vh;
+    }
+    .skill-bar{
+        width: 80%;
+    }
+    .s6col{
+    
+        margin-right: 5;
+        margin-left: 5;
+    }
+    .s7d2{
+        width: 25%;
+        }
+        .div2{
+            font-size: 2.5vh;
+            background-color: rgb(95, 95, 95);
+        }
+        .div5{
+            margin-left: 0;
+        }
+        
+       .s8para{
+           font-size: 2.5vh;
+           margin-top: 0px;
+       }
+}
